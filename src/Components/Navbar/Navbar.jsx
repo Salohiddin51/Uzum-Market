@@ -43,7 +43,7 @@ const Navbar = () => {
 				<div className='flex px-32 bg-slate-100 dark:bg-dark dark:text-white justify-between'>
 					<div className='flex items-center'>
 						<CiLocationOn />
-						<p className='underline pl'>Тaшкент city</p>
+						<p className='underline pl'>Тaшкент</p>
 						<p className='pl-5 font-semibold'>{t('pick-up point')}</p>
 					</div>
 
